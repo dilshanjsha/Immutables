@@ -5,7 +5,7 @@ import java.time.LocalTime;
 public class ImmutableString {
 
 	public ImmutableString() {
-		// TODO Auto-generated constructor stub
+		
 	}
 
 	public static void main(String[] args) {
