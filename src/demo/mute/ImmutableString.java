@@ -5,7 +5,6 @@ import java.time.LocalTime;
 public class ImmutableString {
 
 	public ImmutableString() {
-		
 	}
 
 	public static void main(String[] args) {
