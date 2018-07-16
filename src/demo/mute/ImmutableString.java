@@ -6,7 +6,6 @@ public class ImmutableString {
 
 	public static void main(String[] args) {
 
-
 		StringBuilder strB = new StringBuilder();
 		String str = new String();
 
