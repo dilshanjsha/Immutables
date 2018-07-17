@@ -35,7 +35,7 @@ public class JavaTen {
 		version.interim();
 		version.update();
 		version.patch();
-		System.out.println(version.feature()+" "+		version.interim()+" "+		version.update()+" "+		version.patch());
+		System.out.println(version.feature()+" "+		version.interim()+" "+		version.update()+" "+		version.patch()+"   version "+version.toString());
 	}
 
 }
